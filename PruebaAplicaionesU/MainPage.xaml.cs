@@ -25,7 +25,7 @@ namespace PruebaAplicaionesU
         public MainPage()
         {
             this.InitializeComponent();
-            //Hola Git
+            //Hola 
         }
     }
 }
